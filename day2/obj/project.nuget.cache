@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "s65+8XvAyiwVUWXVpjUtLw4K0sFNiXsFqL8ZcfgLWtbh2WYLvO+t5WAnpzvuykn5e6XMdRdaC+MUy2IqogXikg==",
+  "success": true,
+  "projectFilePath": "F:\\projects\\AdventOfCode2022\\day2\\day2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.4.19/ProconomSW/_packaging/Proconom%40Local/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
