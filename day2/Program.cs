@@ -88,13 +88,13 @@ class ChoiceFactory
         };
     }
 
-    public Choice Make(char choiceChar, char outcomeChar)
-    {
-        // return outcomeChar switch
-        // {
-        //     'X' => this.Make(choiceChar).Score
-        // }
-    }
+    // public Choice Make(char choiceChar, char outcomeChar)
+    // {
+    //     // return outcomeChar switch
+    //     // {
+    //     //     'X' => this.Make(choiceChar).Score
+    //     // }
+    // }
 }
 
 class Program
